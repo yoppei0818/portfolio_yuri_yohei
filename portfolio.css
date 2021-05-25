@@ -658,7 +658,7 @@ span {
   }
 
   .profile {
-    height: 820px;
+    height: 850px;
   }
 
   .profile h2 {
@@ -675,7 +675,7 @@ span {
 
   .profile-items img {
     width: 80%;
-    height: 95%;
+    height: 55%;
     margin: 0 auto;
   }
 
