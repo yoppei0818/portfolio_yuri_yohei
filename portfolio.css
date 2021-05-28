@@ -400,7 +400,7 @@ body {
 }
 
 .works {
-  height: 550px;
+  height: 900px;
   width: 100%;
   border-bottom: 1.5px solid #000;
 }
@@ -418,17 +418,19 @@ body {
 
 .works-items {
   width: 100%;
-  padding-top: 50px;
+  margin-top: 30px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .works-item {
-  width: 30%;
+  width: 32%;
+  margin-top: 15px;
 }
 
 .works-img {
-  width: 88%;
+  width: 83%;
   height: 230px;
   position: relative;
 }
@@ -675,7 +677,7 @@ span {
 
   .profile-items img {
     width: 80%;
-    height: 48%;
+    height: 55%;
     margin: 0 auto;
   }
 
@@ -764,7 +766,7 @@ span {
   }
 
   .works {
-    height: 1030px;
+    height: 1350px;
   }
 
   .works h2 {
